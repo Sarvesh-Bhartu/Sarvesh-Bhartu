@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Niteen Bhartu</h1>
 <h3 align="center">I am a student at the A P Shah Institute of Technology, in the CSE(AIML) Department</h3>
 <h3 align="center">I am passionate about AI/ML and always keen to learn and apply new technologies. Currently seeking opportunities in projects or internships to deepen my practical knowledge and contribute meaningfully.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh-bhartu&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh-bhartu" /> </p>
+<br>
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript and Python**
 
