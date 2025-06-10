@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
-- 📫 How to reach me **sarveshbhartu30@gmail.com**
+- 📫 How to reach me **sarveshbhartu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
